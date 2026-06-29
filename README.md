@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBzMTJwZ3B1NHNhbWMzbHpyanNhM2Zva2NqcHY5eXM3OXB0ZGg0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dgm1MHwAcMQGaZzSjq/giphy.gif" width="450"/>
 </p>
 
-<table>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -19,7 +19,7 @@
 
 </td>
 </tr>
-</table>
+
 
 <p align="center">
   <a href="https://x.com/nahaz4h" target="_blank">
