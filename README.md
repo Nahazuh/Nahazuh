@@ -1,38 +1,29 @@
+<div align="center">
+
+</div>
+
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBzMTJwZ3B1NHNhbWMzbHpyanNhM2Zva2NqcHY5eXM3OXB0ZGg0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dgm1MHwAcMQGaZzSjq/giphy.gif" width="100%"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBzMTJwZ3B1NHNhbWMzbHpyanNhM2Zva2NqcHY5eXM3OXB0ZGg0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dgm1MHwAcMQGaZzSjq/giphy.gif" width="100%" />
 </p>
 
-<table width="100%">
-<tr>
+## Skills
 
-<td width="50%" valign="top">
+### Web Pentesting
 
-### Skills
+Focused on web application security, vulnerability assessment, and offensive security.
 
-<sub>WEB</sub>
+### C Programming
 
-## Web Pentesting
+Low-level programming, system programming, and understanding how software works internally.
 
-<sub>PROGRAMMING</sub>
-
-## C Programming
-
-</td>
-
-<td width="50%" valign="top">
-
-<!-- Future content -->
-
-</td>
-
-</tr>
-</table>
+---
 
 <p align="center">
   <a href="https://x.com/nahaz4h">
-    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+
   <a href="https://discord.com/users/1248732027558301849">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
