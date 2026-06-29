@@ -41,7 +41,7 @@ I enjoy breaking things apart, studying how they work internally, and solving ch
     <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
-  <a href="https://discord.com/users/1509655618607120446" target="_blank">
+  <a href="https://discord.com/users/1248732027558301849" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
