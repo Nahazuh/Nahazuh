@@ -8,11 +8,8 @@
 
 # 𝐒𝐤𝐢𝐥𝐥𝐬
 
->  𝐖𝐞𝐛 𝐏𝐞𝐧𝐭𝐞𝐬𝐭𝐢𝐧𝐠  
->  𝐂 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠  
-
-
-
+𝐖𝐞𝐛 𝐏𝐞𝐧𝐭𝐞𝐬𝐭𝐢𝐧𝐠
+𝐂 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠
 
   <a href="https://x.com/nahaz4h">
     <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
