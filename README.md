@@ -8,9 +8,9 @@
 
 ## Skills
 
-### Web Pentesting
-### C Programming
----
+> Web Pentesting
+> C Programming
+
 
 <p align="center">
   <a href="https://x.com/nahaz4h">
