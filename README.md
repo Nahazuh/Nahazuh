@@ -9,13 +9,7 @@
 ## Skills
 
 ### Web Pentesting
-
-Focused on web application security, vulnerability assessment, and offensive security.
-
 ### C Programming
-
-Low-level programming, system programming, and understanding how software works internally.
-
 ---
 
 <p align="center">
