@@ -2,31 +2,37 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBzMTJwZ3B1NHNhbWMzbHpyanNhM2Zva2NqcHY5eXM3OXB0ZGg0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dgm1MHwAcMQGaZzSjq/giphy.gif" width="100%"/>
 </p>
 
+<table width="100%">
 <tr>
+
 <td width="50%" valign="top">
 
-## Skills
+### Skills
 
-- 🌐 Web Pentesting
-- ⚙️ C Programming
+<sub>WEB</sub>
+
+## Web Pentesting
+
+<sub>PROGRAMMING</sub>
+
+## C Programming
 
 </td>
 
 <td width="50%" valign="top">
 
-<!-- Aquí puedes poner otra sección si quieres -->
+<!-- Future content -->
 
 </td>
+
 </tr>
-
+</table>
 
 <p align="center">
-  <a href="https://x.com/nahaz4h" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://x.com/nahaz4h">
+    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-
-  <a href="https://discord.com/users/1248732027558301849" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.com/users/1248732027558301849">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
-
