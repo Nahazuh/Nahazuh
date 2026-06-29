@@ -10,7 +10,7 @@
 <h1>𝐒𝐤𝐢𝐥𝐥𝐬</h1>
 
 <b> > 𝐖𝐞𝐛 𝐏𝐞𝐧𝐭𝐞𝐬𝐭𝐢𝐧𝐠</b><br>
-<b> > 𝐂 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠</b>
+<b> > Low-Level Developer</b>
 
   <a href="https://x.com/nahaz4h">
     <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
