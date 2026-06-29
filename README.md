@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdyNTUxNmpjdjlkeTVkdjlhd2hwa3V4OWFpazYweGx6NHlwaGtsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMIciqRn5imbF7y/giphy.gif" width="100%" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjc4M25xbzg5N2V3eHJsMnZnN3Q4d3pyb216OW03bnJiY2ltOGRkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VNzHeSntbLd2FF77Y8/giphy.gif" width="100%" />
 <p align="center">
 
 # Skills
