@@ -4,8 +4,8 @@
 
 ## Skills
 
--  Web Pentesting
--  C Programming
+Web Pentesting
+C Programming
 
 </td>
 
