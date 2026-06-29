@@ -8,9 +8,7 @@
 
 ## Skills
 
-> Web Pentesting
-
-
+> Web Pentesting  
 > C Programming
 
 
