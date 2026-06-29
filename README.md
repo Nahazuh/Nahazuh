@@ -12,9 +12,13 @@
 
 <div align="center">
 
-##  About Me
+## Skills
 
+Web Pentesting
 
+C Programming
+
+</div>
 
 
 <p align="center">
