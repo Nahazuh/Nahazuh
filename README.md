@@ -6,10 +6,11 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjc4M25xbzg5N2V3eHJsMnZnN3Q4d3pyb216OW03bnJiY2ltOGRkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VNzHeSntbLd2FF77Y8/giphy.gif" width="100%" />
 <p align="center">
 
-# 𝐒𝐤𝐢𝐥𝐥𝐬
 
-𝐖𝐞𝐛 𝐏𝐞𝐧𝐭𝐞𝐬𝐭𝐢𝐧𝐠
-𝐂 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠
+<h1>𝐒𝐤𝐢𝐥𝐥𝐬</h1>
+
+<b> > 𝐖𝐞𝐛 𝐏𝐞𝐧𝐭𝐞𝐬𝐭𝐢𝐧𝐠</b><br>
+<b> > 𝐂 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠</b>
 
   <a href="https://x.com/nahaz4h">
     <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
