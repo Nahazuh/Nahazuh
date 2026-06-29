@@ -37,7 +37,7 @@ I enjoy breaking things apart, studying how they work internally, and solving ch
 
 
 <p align="center">
-  <a href="https://x.com/0xhzr1/" target="_blank">
+  <a href="https://x.com/nahaz4h" target="_blank">
     <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
